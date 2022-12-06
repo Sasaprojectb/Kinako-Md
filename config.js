@@ -26,34 +26,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/lordagam23_' 
-global.syt = 'https://youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg'
-global.sgh = 'https://github.com/KazeDevID/'
-global.sgc = 'https://chat.whatsapp.com/Lg1V1A0lRRA7d9Iaq117um'
-global.swa = 'wa.me/6282217590187'
-global.stg = 't.me/KenalSayaaa'
+global.sig = 'https://instagram.com/Syanz_xd'
+global.syt = 'https://youtube.com/channel/@Gorge_id'
+global.sgh = 'https://github.com/Sasaproject/'
+global.sgc = 'https://t.me/GorgemyId'
+global.swa = 'wa.me/+1(646)466-7657'
+global.stg = '-'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.ultahown = 'Maret 23 2023 00:00:01'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082217590187'
-global.povo = '-'
-global.pgopay = '082217590187'
-global.ppulsa = '082217590187'
-global.ppulsa2 = '082217590187'
-global.psaweria = 'https://saweria.co/KazeDevID'
+global.pdana = '085875990859'
+global.povo = 'Minta Nomor Ke Owner'
+global.pgopay = 'Minta Nomor ke Owner'
+global.ppulsa = 'Minta Nomor Ke Owner'
+global.ppulsa2 = 'Minta Nomor Ke Owner'
+global.psaweria = 'Tidak Tersedia '
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282217590187'
-global.nomorown = '6282217590187'
-global.namebot = 'KinakoBot'
-global.nameown = 'Lord Kaze'
+global.nomorbot = '+994409252794'
+global.nomorown = '+1(646)466-7657'
+global.namebot = 'GorgeBot'
+global.nameown = 'Gorge_my.id
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282217590187', 'Lord Kaze', 'true']
+  ['+1(646)466-7657', 'Gorge', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -95,8 +95,8 @@ global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
 global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.nomorowner = 'wa.me/+1(646)466-7657'
+global.pacarowner = 'Gorge chan><'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
